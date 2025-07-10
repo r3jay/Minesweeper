@@ -3,8 +3,6 @@
 A simple Minesweeper game built in C++ using the wxWidgets GUI framework.  
 This project was developed as part of a university assignment focused on learning how to build GUI applications with wxWidgets.
 
-![Screenshot Placeholder](https://via.placeholder.com/600x400.png?text=Minesweeper+Screenshot)
-
 ---
 
 ## Objective
